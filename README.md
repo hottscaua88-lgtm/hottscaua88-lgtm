@@ -10,7 +10,4 @@ Olá, eu sou o Cauã 👋
 - Criar Apps e Sites
 - Robotica  
 
-**🧰 Trabalho Atual**  
-<div> 
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
-</div>
+<img  src="https://4kwallpapers.com/images/walls/thumbs_3t/15802.jpg" height="250" />
