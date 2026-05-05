@@ -10,4 +10,4 @@ Olá, eu sou o Cauã 👋
 - Criar Apps e Sites
 - Robotica  
 
-<img  src="https://4kwallpapers.com/images/walls/thumbs_3t/15802.jpg" height="250" />
+<img  src="https://4kwallpapers.com/images/walls/thumbs_3t/15802.jpg" height="200" />
