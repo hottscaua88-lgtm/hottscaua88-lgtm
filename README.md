@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+me+chamo+Cau%C3%A3" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D00B8&width=435&lines=Ol%C3%A1+me+chamo+Cau%C3%A3" alt="Typing SVG" /></a>
 
 **💻 Estudando Sofware**  
 - Atualmente sou estudante de TI
