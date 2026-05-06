@@ -1,14 +1,21 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D00B8&width=435&lines=Ol%C3%A1+me+chamo+Cau%C3%A3" alt="Typing SVG" /></a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-**💻 Estudando Sofware**  
-- Atualmente sou estudante de TI
-- Nascido no Brasil.
-- Estudando Análise e Desenvolvimento de Sistemas na Fundação Ji-cred
+###
 
-**🎯 Interests**  
-- Em aprender Criar IA
-- Criar Apps e Sites
-- Robotica  
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<img  src="https://4kwallpapers.com/images/walls/thumbs_3t/15802.jpg" height="200" />
+###
 
+<p align="left">My name is Cauã and I'm aluno de TI
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+📚 I'm currently learning Progamação e TI  <br>🎯 Goals: Criar um Site <br>🎲 Fun fact: Como criar uma IA? </p>
+
+###
